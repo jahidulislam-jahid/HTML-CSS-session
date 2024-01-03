@@ -68,3 +68,11 @@ h1{
     /* display: inline-block; */
     /* width: 10px; */
 }
+
+.cowimages{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-around;
+    width: 20%;
+}
