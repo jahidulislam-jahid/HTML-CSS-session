@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: red;
+}
+
+.hero{
+    background-image: url('../images/jonas-koel-nnxWQZTmoxQ-unsplash.jpg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.hero h1{
+    color: azure;
+    font-size: 100px;
+    text-align: center;
+    font-weight: 900;
+    /* margin-top: 60px; */
+    padding-top: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    word-spacing: 5px;
+    letter-spacing: 20px;
+}
