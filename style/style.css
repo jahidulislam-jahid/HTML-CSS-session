@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
+    fon
 }
 h1{
     color: red;
@@ -23,4 +27,44 @@ h1{
     font-family: 'Courier New', Courier, monospace;
     word-spacing: 5px;
     letter-spacing: 20px;
+}
+
+.article{
+    width: 80%;
+    /* margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px; */
+
+    margin: 60px auto;
+    background-color: aqua;
+    padding: 60px;
+    border-width: 15px;
+    border-color: yellow;
+    border-style: groove;
+
+}
+
+.article h2{
+    text-align: center;
+    font-size: 48px;
+    border-bottom: 10px;
+    border-style: solid;
+    border-width: 2px;
+    /* border-top: 0;
+    border-left: 0; */
+    padding-bottom: 20px;
+    margin-bottom: 60px;
+}
+
+.article p{
+    font-size: 15px;
+    line-height: 2em;
+}
+
+.article p .imp{
+    font-size: 2em;
+    background-color: beige;
+    /* display: inline-block; */
+    /* width: 10px; */
 }
