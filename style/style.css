@@ -29,7 +29,7 @@ h1{
     letter-spacing: 20px;
 }
 
-.article{
+.article ,#cowtype{
     width: 80%;
     /* margin-left: auto;
     margin-right: auto;
@@ -45,7 +45,7 @@ h1{
 
 }
 
-.article h2{
+.article h2 .cowimages{
     text-align: center;
     font-size: 48px;
     border-bottom: 10px;
